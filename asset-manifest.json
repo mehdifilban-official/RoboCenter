@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mehdifilban-official/RoboCenter/static/css/main.606373c7.chunk.css",
+    "main.js": "/mehdifilban-official/RoboCenter/static/js/main.9bb08d80.chunk.js",
+    "main.js.map": "/mehdifilban-official/RoboCenter/static/js/main.9bb08d80.chunk.js.map",
+    "runtime-main.js": "/mehdifilban-official/RoboCenter/static/js/runtime-main.a241b752.js",
+    "runtime-main.js.map": "/mehdifilban-official/RoboCenter/static/js/runtime-main.a241b752.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/mehdifilban-official/RoboCenter/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ce8e357b.chunk.js": "/mehdifilban-official/RoboCenter/static/js/2.ce8e357b.chunk.js",
+    "static/js/2.ce8e357b.chunk.js.map": "/mehdifilban-official/RoboCenter/static/js/2.ce8e357b.chunk.js.map",
+    "index.html": "/mehdifilban-official/RoboCenter/index.html",
+    "precache-manifest.2981dc6b4f9188e606a9fbe92dd7b955.js": "/mehdifilban-official/RoboCenter/precache-manifest.2981dc6b4f9188e606a9fbe92dd7b955.js",
+    "service-worker.js": "/mehdifilban-official/RoboCenter/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/mehdifilban-official/RoboCenter/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.606373c7.chunk.css.map": "/mehdifilban-official/RoboCenter/static/css/main.606373c7.chunk.css.map",
+    "static/js/2.ce8e357b.chunk.js.LICENSE": "/mehdifilban-official/RoboCenter/static/js/2.ce8e357b.chunk.js.LICENSE",
+    "static/media/App.css": "/mehdifilban-official/RoboCenter/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a241b752.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ce8e357b.chunk.js",
+    "static/css/main.606373c7.chunk.css",
+    "static/js/main.9bb08d80.chunk.js"
+  ]
+}
