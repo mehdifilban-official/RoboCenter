@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RoboCenter/static/css/main.3f166143.chunk.css",
-    "main.js": "/RoboCenter/static/js/main.819d2a68.chunk.js",
-    "main.js.map": "/RoboCenter/static/js/main.819d2a68.chunk.js.map",
+    "main.js": "/RoboCenter/static/js/main.a21487bc.chunk.js",
+    "main.js.map": "/RoboCenter/static/js/main.a21487bc.chunk.js.map",
     "runtime-main.js": "/RoboCenter/static/js/runtime-main.7ed0c04e.js",
     "runtime-main.js.map": "/RoboCenter/static/js/runtime-main.7ed0c04e.js.map",
     "static/css/2.eb45ad44.chunk.css": "/RoboCenter/static/css/2.eb45ad44.chunk.css",
     "static/js/2.ce8e357b.chunk.js": "/RoboCenter/static/js/2.ce8e357b.chunk.js",
     "static/js/2.ce8e357b.chunk.js.map": "/RoboCenter/static/js/2.ce8e357b.chunk.js.map",
     "index.html": "/RoboCenter/index.html",
-    "precache-manifest.ec335e17650d32447b683b2dc94eb8d4.js": "/RoboCenter/precache-manifest.ec335e17650d32447b683b2dc94eb8d4.js",
+    "precache-manifest.0c0cca14799ec6ed8edfe90e3349a865.js": "/RoboCenter/precache-manifest.0c0cca14799ec6ed8edfe90e3349a865.js",
     "service-worker.js": "/RoboCenter/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/RoboCenter/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.3f166143.chunk.css.map": "/RoboCenter/static/css/main.3f166143.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.ce8e357b.chunk.js",
     "static/css/main.3f166143.chunk.css",
-    "static/js/main.819d2a68.chunk.js"
+    "static/js/main.a21487bc.chunk.js"
   ]
 }
