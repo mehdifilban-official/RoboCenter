@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33476baa80477a10b010a393d1f54bdf",
+    "revision": "1e1e01867e4a99d922bc9441cf7f89c6",
     "url": "/RoboCenter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboCenter/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "3273b1db519b56c85ee6",
+    "revision": "a20a12d01f9046e3cf35",
     "url": "/RoboCenter/static/css/main.3f166143.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboCenter/static/js/2.ce8e357b.chunk.js.LICENSE"
   },
   {
-    "revision": "3273b1db519b56c85ee6",
-    "url": "/RoboCenter/static/js/main.97e84401.chunk.js"
+    "revision": "a20a12d01f9046e3cf35",
+    "url": "/RoboCenter/static/js/main.819d2a68.chunk.js"
   },
   {
     "revision": "ffda9a77b3a0943c43fa",
